@@ -12,6 +12,12 @@ redirect_from:
 The PDF version of CV is available here: <br>
 [Please click HERE to see my CV.](https://negarnd.github.io/files/CV_NegarNeda.pdf)
 
+**Awards**
+------
+* Received the Travel Grant for ISPASS conference, 2023.
+* Earned the Future Leader Fellowship at NYU Tandon. 
+* Ranked top 3 in terms of GPA, among Computer Architecture Students in AUT.
+
 <!-- 
 **Extra-curricular Activities**
 ------
