@@ -15,5 +15,4 @@ I received my M.Sc degree in Computer Architecture from [University of Tehran](h
 
 News
 ======
-* I will be presenting our paper; CiFlow, on May 6th at ISPASS, Indianapolis, Indiana. 
 * Our paper on CiFlow:Dataflow Analysis and Optimization of Key Switching for Homomorphic Encryption was accepted at ISPASS 2024.
