@@ -14,7 +14,7 @@ The PDF version of CV is available here: <br>
 
 **Awards**
 ------
-* Received the Travel Grant for ISPASS conference, 2023.
+* Received the Travel Grant for ISPASS conference, 2023 & 2024.
 * Earned the Future Leader Fellowship at NYU Tandon. 
 * Ranked top 3 in terms of GPA, among Computer Architecture Students in AUT.
 
