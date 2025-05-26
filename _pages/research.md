@@ -10,14 +10,20 @@ author_profile: true
 
 __Current Projects - [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu)__
 ------
+* Accelerating MatMult in LLMs for Encrypted Data in FHE
+* <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
+* In this work I am exploring hardware acceleration techniques for matrix multiplication in LLMs applied for CKKS scheme in FHE.
+ 
 * Accelerating TFHE implementation
   <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
-  * Currently I an working on designing a hardware to accelerate TFHE's implementation.
+  * Currently I an working on designing a chiplet-based hardware accelerator for TFHE programmable bootstrapping.
 
 * Dataflow analysis and optimization of KeySwitching algorithm for Homomorphic encryption
   <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
   * This project was funded by DARPA, under the Data Protection in Virtual Environments (DPRIVE) program, contract HR0011-21-9-0003. 
-  * Description: One of the main computational bottlnecks in HE is the key-switching workload. In this research we present a novel approach to improve key-switching performance by optimizing the dataflow and capturing on-chip reuse with far less SRAM and simultaneously reducing the off-chip bandwidth requirement.
+  * Description: One of the main computational bottlnecks in HE is the key-switching workload. In this research we present a novel approach to improve key-switching performance by optimizing the dataflow and capturing on-chip reuse with far less SRAM and simultaneously reducing the off-chip bandwidth requirement. In this work we achieve up to 4x speedup and 12x SRAM savings by minimizing off-chip data movement.
+  * Paper: [CiFlow: Dataflow Analysis and Optimization of Key Switching for Homomorphic Encryption](https://ieeexplore.ieee.org/abstract/document/10590039)
+  * Presentaion: [Video](https://www.youtube.com/watch?v=SVAV61S7HnQ)
   
 
 * Vector Processor for Ring Learning With Errors (RLWE)-based algorithms, named RPU.
