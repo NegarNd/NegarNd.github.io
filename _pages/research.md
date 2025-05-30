@@ -11,8 +11,8 @@ author_profile: true
 __Current Projects - [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu)__
 ------
 * Accelerating MatMult in LLMs for Encrypted Data in FHE
-* <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
-* In this work I am exploring hardware acceleration techniques for matrix multiplication in LLMs applied for CKKS scheme in FHE.
+  <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
+  * In this work I am exploring hardware acceleration techniques for matrix multiplication in LLMs applied for CKKS scheme in FHE.
  
 * Accelerating TFHE implementation
   <!-- * [Center for Cybersecurity (CCS)](https://engineering.nyu.edu/research-innovation/centers/nyu-center-cybersecurity-ccs), [New York University](https://www.nyu.edu) -->
